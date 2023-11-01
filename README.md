@@ -4,3 +4,8 @@ Hi, I am a PhD student in cryptography at KAIST.
 - [Resume](https://encrypted.gg/resume/resume_smc.pdf)
 - [Youtube](https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog)
 - [Connect6 Web (Under construction)](http://connect6.encrypted.gg/)
+
+Contact:
+
+- (Academic) `encrypted.def (at) gmail.com`
+- (Personal) `admin (at) encrypted.gg`
